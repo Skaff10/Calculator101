@@ -13,7 +13,7 @@ A basic calculator built using **HTML**, **CSS**, and **JavaScript**. It can per
 
 ## 🌐 Live Demo
 
-You can try the calculator [here](#) (add link if hosted online).
+You can try the calculator [here](#) (https://skaff10.github.io/Calculator101/).
 
 ## 📁 Project Structure
 
@@ -34,7 +34,7 @@ Project2- CALCULATOR/
 
 1. Clone the repository or download the ZIP:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://https://skaff10.github.io/Calculator101/
 
 2. Open the index.html file in any modern web browser.
 
