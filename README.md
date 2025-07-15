@@ -18,10 +18,12 @@ You can try the calculator [here](#) (https://skaff10.github.io/Calculator101/).
 ## 📁 Project Structure
 
 Project2- CALCULATOR/
+<br>
 │
-├── index.html # Main HTML structure
-├── styles.css # Styling for the calculator
-└── app.js # Calculator functionality
+<br>
+├── index.html # Main HTML structure <br>
+├── styles.css # Styling for the calculator <br>
+└── app.js # Calculator functionality<br>
 
 
 ## 🛠️ How It Works
