@@ -19,7 +19,7 @@ You can try the calculator [here](#) (https://skaff10.github.io/Calculator101/).
 
 Project2- CALCULATOR/
 <br>
-│
+ │
 <br>
 ├── index.html # Main HTML structure <br>
 ├── styles.css # Styling for the calculator <br>
